@@ -1,0 +1,46 @@
+WQI DATA VALIDATION REPORT - V8
+==================================================
+
+Total records: 5407
+Eligible records: 4973
+Insufficient records: 434
+Records requiring measurement review: 9
+
+PARAMETER AVAILABILITY
+--------------------------------------------------
+dissolved_oxygen: 5076 available
+ph: 5192 available
+bod: 4953 available
+conductivity: 5021 available
+nitrate: 4542 available
+total_coliform: 4660 available
+fecal_coliform: 4604 available
+
+MISSING MEASUREMENTS
+--------------------------------------------------
+dissolved_oxygen: 331 missing
+ph: 215 missing
+bod: 454 missing
+conductivity: 386 missing
+nitrate: 865 missing
+total_coliform: 747 missing
+fecal_coliform: 803 missing
+
+MEASUREMENTS FLAGGED FOR REVIEW
+--------------------------------------------------
+dissolved_oxygen: 0 flagged values
+ph: 0 flagged values
+bod: 6 flagged values
+conductivity: 0 flagged values
+nitrate: 0 flagged values
+total_coliform: 3 flagged values
+fecal_coliform: 2 flagged values
+
+IMPORTANT METHODOLOGICAL NOTES
+--------------------------------------------------
+This output is a WQI screening dataset, not a final WQI dataset.
+The Min/Max average is used as a representative value where one or both measurements are available.
+Broad plausibility limits are used only to flag values for review. No measurements are deleted because of these flags.
+Eligibility means at least four of six selected parameters are available. It does not establish that a valid WQI can be calculated.
+Nitrate measurements from different source definitions must be reconciled before final WQI calculation.
+Final WQI calculation requires verified units, an appropriate river-water quality standard, parameter-specific ideal values, quality ratings and justified weights.

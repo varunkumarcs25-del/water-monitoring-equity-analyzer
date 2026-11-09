@@ -1,0 +1,24 @@
+FINAL V7 DATASET VALIDATION
+==================================================
+
+Dataset records: 5407
+Expected measurement columns: 18
+Available measurement columns: 16
+Missing measurement columns: ['do_min', 'do_max']
+
+Source anomalies: 62
+Matched anomalies: 44
+Unmatched anomalies: 18
+
+Original line-break cases: 42
+Original potential outliers: 19
+Other formatting cases: 1
+
+Automatic corrections recorded: 39
+Manual review rows: 22
+
+DATASET PRESERVATION CHECK
+Original raw-value columns available: 16
+
+WQI STATUS: NOT YET APPROVED
+Scientific units, parameter mapping and standards must be validated before WQI calculation.

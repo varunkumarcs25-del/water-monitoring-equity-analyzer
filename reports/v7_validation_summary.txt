@@ -1,0 +1,18 @@
+NWMP VERIFIED DATASET V7 - VALIDATION SUMMARY
+=======================================================
+
+Input records: 5407
+Output records: 5407
+Measurement columns processed: 16
+Source-inspected anomaly matches: 44
+Automatic formatting corrections: 39
+Manual review entries: 4
+Potential outliers retained: 18
+
+IMPORTANT DATA HANDLING RULES
+- Original measurement values preserved in *_raw columns.
+- BDL values preserved as BDL status, not zero.
+- Missing values are not zero-filled.
+- Ambiguous values are not automatically corrected.
+- Potential outliers are retained.
+- No original dataset was overwritten.

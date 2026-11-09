@@ -1,0 +1,691 @@
+source_file,sheet,excel_row,header_evidence
+nwmp_major_2019.xlsx,Table 1,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 1,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 2,2,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature | 6: Dissolved
+Oxygen | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (Mg/L) | 14: Nitrate | 16: Faecal Coliform | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 2,3,4: (0 C) | 6: (mg/ L) | 14: (mg/ L) | 16: (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 2,4,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 3,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal - Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 3,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 4,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 4,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 5,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 5,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 5,14,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 5,15,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 6,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 6,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 7,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 7,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 8,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 8,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 9,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 9,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 10,1,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 10,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 11,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 11,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 12,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 12,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 13,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal - Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 13,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 14,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 14,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 15,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 15,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 16,2,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 16,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 17,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 17,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 18,2,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 18,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 19,2,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen
+(mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 19,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 19,13,"1: 1482 | 2: SABARMATI AT MAHUDI JAIN TEMPLE, 150 KM. FORM
+ORIGIN, | 3: GUJARAT | 4: 27 | 5: 29 | 6: 6.7 | 7: 7.3 | 8: 8.3 | 9: 8.4 | 10: 22 | 11: 468 | 12: 1 | 13: 1.8 | 14: 0.3 | 15: 0.3 | 16: 7 | 17: 14 | 18: 48 | 19: 94 | 20: - | 21: -"
+nwmp_major_2019.xlsx,Table 19,16,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 19,17,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 20,1,"1: Statio n Code | 2: LOCATION | 4: STATE | 7: Temperature (0 C) | 11: Dissolved Oxygen
+(mg/ L) | 14: pH | 17: Conductivity (µmho/ Cm) | 21: Bio-Chemical Oxygen
+Demand (mg/L) | 24: Nitrate (mg/ L) | 27: Faecal Coliform (MPN/ 100 mL) | 30: Total Coliform (MPN/ 100 mL) | 33: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 20,2,11: > 5.0 mg/L | 14: 6.5 - 8.5 | 21: < 3.0 mg/L | 27: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 21,2,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 9: pH | 12: Conductivity (µmho/ Cm) | 15: Bio-Chemical Oxygen Demand (mg/L) | 18: Nitrate (mg/ L) | 21: Faecal Coliform (MPN/ 100 mL) | 24: Total Coliform (MPN/ 100 mL) | 27: Faecal Streptococci (MPN/ 100
+mL)"
+nwmp_major_2019.xlsx,Table 21,3,6: > 5.0 mg/L | 9: 6.5 - 8.5 | 15: < 3.0 mg/L | 21: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 22,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 22,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 23,1,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 23,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 23,8,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 23,9,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 24,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(Mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 24,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 25,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 25,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 26,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 26,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 27,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 27,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 27,19,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL) | 20: Faecal Streptococci
+(MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 27,20,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 28,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 28,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 29,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 29,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 29,6,"1: 2177 | 2: GODAVARI RIVER NEAR SOMESHWAR TEMPLE,
+SOMESHWAR, NASHIK | 3: MAHARASHTRA | 4: 20 | 5: 30 | 6: 5.4 | 7: 6.1 | 8: 7.1 | 9: 7.9 | 10: 166 | 11: 1226 | 12: 2.4 | 13: 5.6 | 14: 0.3 | 15: 6.7 | 16: 1.8 | 17: 12 | 18: 120 | 19: 540 | 20: 1.8 | 21: 2"
+nwmp_major_2019.xlsx,Table 30,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 30,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 31,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 31,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 32,2,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 32,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 33,2,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 33,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 34,1,"1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)"
+nwmp_major_2019.xlsx,Table 34,2,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2019.xlsx,Table 34,17,"1: 2350 | 2: RIVER HUNDRI AT JOHARAPURAM(V), NEAR
+TEMPLE, KURNOOL | 3: ANDHRA PRADESH | 4: 18 | 5: 25 | 6: 5.5 | 7: 6.6 | 8: 7.2 | 9: 7.8 | 10: 587 | 11: 1389 | 12: 1.2 | 13: 2.8 | 14: 0.3 | 15: 2.8 | 16: 1.8 | 17: 100 | 18: 500 | 19: 800 | 20: - | 21: -"
+nwmp_major_2019.xlsx,Table 35,2,1: Statio n Code | 2: LOCATION | 3: STATE | 4: Temperature (0 C) | 6: Dissolved Oxygen (mg/ L) | 8: pH | 10: Conductivity (µmho/ Cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/ L) | 16: Faecal Coliform (MPN/ 100 mL) | 18: Total Coliform (MPN/ 100 mL)
+nwmp_major_2019.xlsx,Table 35,3,6: > 5.0 mg/L | 8: 6.5 - 8.5 | 12: < 3.0 mg/L | 16: < 2500 MPN/ 100 mL
+nwmp_major_2022.xlsx,Table 2,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 2,3,"1: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 3,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 3,3,"1: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 4,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 4,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 5,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 5,2,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 6,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 6,2,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 7,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 7,3,"1: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 8,1,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 8,2,"1: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 8,4,"2: TEMPLE    D/S    RAIWALA, DEHRADUN"
+nwmp_major_2022.xlsx,Table 9,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 9,3,"1: Primary   Water   Quality   Criteria   (PWQC)   notified   by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 10,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 10,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 11,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 11,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 12,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 12,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 12,6,"1: 3121 | 2: RIVER        SONE        AT BANJARI                 NEAR BANJARI    NEAR    SUN TEMPLE   KALYANPUR, ROHTAS | 3: BIHAR | 4: 16 | 5: 31 | 6: 5.9 | 7: 9.2 | 8: 7.4 | 9: 8.24 | 10: 135 | 11: 266 | 12: 1.1 | 13: 2.3 | 14: BDL | 15: BDL | 16: 2300 | 17: 240000 | 18: 3300 | 19: 350000 | 20: - | 21: -"
+nwmp_major_2022.xlsx,Table 12,15,"1: 3853 | 2: RIVER        TONS        AT BASAMAN            MAMA
+TEMPLE,                NEAR PURWA FALL, TEHSIL-SEMARIYA,            DIST-
+REWA | 3: MADHYA PRADESH | 4: 20.4 | 5: 32 | 6: 6.5 | 7: 7.5 | 8: 7.26 | 9: 7.82 | 10: 283 | 11: 598 | 12: 1.3 | 13: 1.9 | 14: 0.32 | 15: 0.75 | 16: 2 | 17: 4 | 18: 43 | 19: 60 | 20: - | 21: -"
+nwmp_major_2022.xlsx,Table 12,16,1: 1078 | 2: RIVER   GANDAK       AT SONEPUR               NEAR HARIHARNATH TEMPLE | 3: BIHAR | 4: 15 | 5: 31 | 6: 6.6 | 7: 9.5 | 8: 7.26 | 9: 8.33 | 10: 152 | 11: 329 | 12: 1.4 | 13: 2.5 | 14: BDL | 15: 0.34 | 16: 1400 | 17: 350000 | 18: 2100 | 19: 540000 | 20: - | 21: -
+nwmp_major_2022.xlsx,Table 13,1,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 13,2,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 14,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 14,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 15,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 15,3,"1: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 16,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 16,3,"1: Primary Water Quality  Criteria  (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 16,12,"1: 10029 | 2: RIVER        CHAMBAL        AT KESHORAIPATAN           U/S,
+NEAR    SHRI    RAJESHWAR MAHADEV TEMPLE, BUNDI | 3: RAJASTHAN | 4: 20 | 5: 33 | 6: 3.4 | 7: 4.8 | 8: 7.81 | 9: 8.63 | 10: 370 | 11: 2080 | 12: 1.8 | 13: 3 | 14: 1.23 | 15: 4.83 | 16: 75 | 17: 280 | 18: 210 | 19: 540 | 20: 23 | 21: 63"
+nwmp_major_2022.xlsx,Table 17,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 17,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 18,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 18,3,"1: Primary     Water     Quality     Criteria     (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 19,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 19,2,"1: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 20,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 20,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 21,1,1: Station Code | 2: Name Of Monitoring Location | 4: State Name | 6: Temperature (oC) | 10: Dissolved Oxygen (mg/L) | 14: pH | 18: Conductivity (µmhos/cm) | 22: Bio-Chemical Oxygen Demand (mg/L) | 26: Nitrate (mg/L) | 30: Fecal Coliform (MPN/100mL) | 34: Total Coliform (MPN/100mL) | 37: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 21,2,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 10: > 5.0 mg/ L | 14: 6.5 - 8.5 | 22: < 3.0 mg/ L | 30: < 2500 MPN
+/ 100 mL | 37: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 21,8,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 5: Temperature (oC) | 9: Dissolved Oxygen (mg/L) | 13: pH | 17: Conductivity (µmhos/cm) | 21: Bio-Chemical Oxygen Demand (mg/L) | 25: Nitrate (mg/L) | 29: Fecal Coliform (MPN/100mL) | 33: Total Coliform (MPN/100mL) | 37: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 21,9,"1: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 9: > 5.0 mg/ L | 13: 6.5 - 8.5 | 21: < 3.0 mg/ L | 29: < 2500 MPN
+/ 100 mL | 37: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 22,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 22,3,"1: Primary     Water     Quality     Criteria     (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 23,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 23,2,"1: Primary     Water     Quality     Criteria     (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 24,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 24,2,"1: Primary     Water     Quality     Criteria     (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 25,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 25,3,"1: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 26,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 26,3,"1: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 27,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 27,3,"1: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 28,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 28,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 29,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 29,3,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 30,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 30,3,"1: Primary    Water    Quality    Criteria    (PWQC) notified  by  MoEF  &  CC  under  E  (P)  Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 31,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 31,2,"1: Primary    Water    Quality    Criteria    (PWQC) notified  by  MoEF  &  CC  under  E  (P)  Rules,
+1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 31,13,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 21: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 31,14,"1: Primary    Water    Quality    Criteria    (PWQC) notified  by  MoEF  &  CC  under  E  (P)  Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 21: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 32,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 5: Temperature (oC) | 9: Dissolved Oxygen (mg/L) | 13: pH | 17: Conductivity (µmhos/cm) | 21: Bio-Chemical Oxygen Demand (mg/L) | 25: Nitrate (mg/L) | 29: Fecal Coliform (MPN/100mL) | 33: Total Coliform (MPN/100mL) | 37: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 32,2,"1: Primary    Water    Quality    Criteria    (PWQC) notified  by  MoEF  &  CC  under  E  (P)  Rules,
+1986 | 9: > 5.0 mg/ L | 13: 6.5 - 8.5 | 21: < 3.0 mg/ L | 29: < 2500 MPN
+/ 100 mL | 37: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 32,11,1: Station Code | 2: Name Of Monitoring Location | 4: State Name | 6: Temperature (oC) | 10: Dissolved Oxygen (mg/L) | 14: pH | 18: Conductivity (µmhos/cm) | 22: Bio-Chemical Oxygen Demand (mg/L) | 26: Nitrate (mg/L) | 30: Fecal Coliform (MPN/100mL) | 34: Total Coliform (MPN/100mL) | 38: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 32,12,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 10: > 5.0 mg/ L | 14: 6.5 - 8.5 | 22: < 3.0 mg/ L | 30: < 2500 MPN
+/ 100 mL | 38: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 33,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 5: Temperature (oC) | 9: Dissolved Oxygen (mg/L) | 13: pH | 17: Conductivity (µmhos/cm) | 21: Bio-Chemical Oxygen Demand (mg/L) | 25: Nitrate (mg/L) | 29: Fecal Coliform (MPN/100mL) | 33: Total Coliform (MPN/100mL) | 37: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 33,2,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 9: > 5.0 mg/ L | 13: 6.5 - 8.5 | 21: < 3.0 mg/ L | 29: < 2500 MPN
+/ 100 mL | 37: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 33,13,1: Station Code | 2: Name Of Monitoring Location | 4: State Name | 6: Temperature (oC) | 10: Dissolved Oxygen (mg/L) | 14: pH | 18: Conductivity (µmhos/cm) | 22: Bio-Chemical Oxygen Demand (mg/L) | 26: Nitrate (mg/L) | 30: Fecal Coliform (MPN/100mL) | 34: Total Coliform (MPN/100mL) | 37: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 33,14,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 10: > 5.0 mg/ L | 14: 6.5 - 8.5 | 22: < 3.0 mg/ L | 30: < 2500 MPN
+/ 100 mL | 37: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 34,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 5: Temperature (oC) | 9: Dissolved Oxygen (mg/L) | 13: pH | 17: Conductivity (µmhos/cm) | 21: Bio-Chemical Oxygen Demand (mg/L) | 25: Nitrate (mg/L) | 29: Fecal Coliform (MPN/100mL) | 33: Total Coliform (MPN/100mL) | 37: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 34,2,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 9: > 5.0 mg/ L | 13: 6.5 - 8.5 | 21: < 3.0 mg/ L | 29: < 2500 MPN
+/ 100 mL | 37: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 34,8,"1: Station Code | 2: Name Of Monitoring Location | 4: State Name | 6: Temperature (oC) | 10: Dissolved Oxygen (mg/L) | 14: pH | 18: Conductivity (µmhos/cm) | 22: Bio-Chemical Oxygen Demand
+(mg/L) | 26: Nitrate (mg/L) | 30: Fecal Coliform (MPN/100mL) | 34: Total Coliform (MPN/100mL) | 38: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 34,9,"1: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 10: > 5.0 mg/ L | 14: 6.5 - 8.5 | 22: < 3.0 mg/ L | 30: < 2500 MPN
+/ 100 mL | 38: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 35,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 35,3,"1: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 35,5,"1: 1906 | 2: RIVER         KRISHNA         AT WALWA, D/S OF ISLAMPUR NEAR     VITHAL     TEMPLE, VILLAGE-                   WALWA,
+TALUKA-                   WALWA, DISTRICT- SANGLI. | 3: MAHARASHTRA | 4: 26 | 5: 31 | 6: 6 | 7: 7.2 | 8: 7.7 | 9: 8.5 | 10: 309 | 11: 975 | 12: 1.6 | 13: 2.2 | 14: 0.68 | 15: 4.63 | 16: 4 | 17: 8 | 18: 14 | 19: 32 | 20: BDL | 21: BDL"
+nwmp_major_2022.xlsx,Table 36,2,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen
+Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 36,3,"1: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 36,13,"1: 1192 | 2: RIVER BHIMA   AT DAUND NEAR                    MAHADEV TEMPLE,VILLAGE- DAUND, TALUKA- DAUND, | 3: MAHARASHTRA | 4: 23 | 5: 29 | 6: 4.6 | 7: 5.5 | 8: 7.3 | 9: 8.4 | 10: 621 | 11: 1506 | 12: 5.2 | 13: 9.5 | 14: 1.02 | 15: 8.52 | 16: 8 | 17: 17 | 18: 175 | 19: 275 | 20: 4 | 21: 11"
+nwmp_major_2022.xlsx,Table 37,1,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 5: Temperature (oC) | 9: Dissolved Oxygen (mg/L) | 13: pH | 16: Conductivity (µmhos/cm) | 19: Bio-Chemical Oxygen
+Demand (mg/L) | 23: Nitrate (mg/L) | 27: Fecal Coliform (MPN/100mL) | 31: Total Coliform (MPN/100mL) | 35: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 37,2,"1: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986 | 9: > 5.0 mg/ L | 13: 6.5 - 8.5 | 19: < 3.0 mg/ L | 27: < 2500 MPN
+/ 100 mL | 35: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 37,9,"1: Station Code | 2: Name Of Monitoring Location | 4: State Name | 6: Temperature (oC) | 10: Dissolved Oxygen (mg/L) | 14: pH | 16: Conductivity (µmhos/cm) | 20: Bio-Chemical Oxygen Demand
+(mg/L) | 24: Nitrate (mg/L) | 28: Fecal Coliform (MPN/100mL) | 32: Total Coliform (MPN/100mL) | 36: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 37,10,"1: Primary   Water   Quality   Criteria   (PWQC)   notified   by MoEF&CC under E (P) Rules, 1986 | 10: > 5.0 mg/ L | 14: 6.5 - 8.5 | 20: < 3.0 mg/ L | 28: < 2500 MPN
+/ 100 mL | 36: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 38,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 38,3,"1: Primary    Water    Quality     Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 39,2,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmhos/cm) | 12: Bio-Chemical Oxygen Demand (mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100mL) | 18: Total Coliform (MPN/100mL) | 20: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 39,3,"1: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN
+/ 100 mL | 20: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 40,1,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 5: Temperature (oC) | 9: Dissolved Oxygen (mg/L) | 13: pH | 17: Conductivity (µmhos/cm) | 21: Bio-Chemical Oxygen Demand (mg/L) | 25: Nitrate (mg/L) | 29: Fecal Coliform (MPN/100mL) | 33: Total Coliform (MPN/100mL) | 37: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 40,2,"1: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986 | 9: > 5.0 mg/ L | 13: 6.5 - 8.5 | 21: < 3.0 mg/ L | 29: < 2500 MPN
+/ 100 mL | 37: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 40,5,"1: 4103 | 2: RIVER CAUVERY D/S AT                    KANIVE RAMALINGESWARA TEMPLE        BRIDGE, KUSHALANAGAR | 3: KARNATAKA | 5: 18 | 7: 27 | 9: 6.6 | 11: 7.5 | 13: 7.3 | 15: 8.4 | 17: 59 | 19: 181 | 21: 1.2 | 23: 2 | 25: BDL | 27: 0.68 | 29: 21 | 31: 48 | 33: 220 | 35: 350 | 37: - | 38: -"
+nwmp_major_2022.xlsx,Table 40,8,"1: Station Code | 2: Name Of Monitoring Location | 4: State Name | 6: Temperature (oC) | 10: Dissolved Oxygen (mg/L) | 14: pH | 18: Conductivity (µmhos/cm) | 22: Bio-Chemical Oxygen Demand
+(mg/L) | 26: Nitrate (mg/L) | 30: Fecal Coliform (MPN/100mL) | 34: Total Coliform (MPN/100mL) | 37: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 40,9,"1: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986 | 10: > 5.0 mg/ L | 14: 6.5 - 8.5 | 22: < 3.0 mg/ L | 30: < 2500 MPN
+/ 100 mL | 37: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 41,1,"1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 6: Dissolved Oxygen (mg/L) | 10: pH | 14: Conductivity (µmhos/cm) | 18: Bio-Chemical Oxygen
+Demand (mg/L) | 21: Nitrate (mg/L) | 25: Fecal Coliform (MPN/100mL) | 29: Total Coliform (MPN/100mL) | 33: Fecal Streptococci (MPN/100mL)"
+nwmp_major_2022.xlsx,Table 41,2,"1: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986 | 6: > 5.0 mg/ L | 10: 6.5 - 8.5 | 18: < 3.0 mg/ L | 25: < 2500 MPN
+/ 100 mL | 33: < 500 MPN
+/ 100 mL"
+nwmp_major_2022.xlsx,Table 41,7,1: Station Code | 2: Name Of Monitoring Location | 3: State Name | 4: Temperature (oC) | 7: Dissolved Oxygen (mg/L) | 11: pH | 15: Conductivity (µmhos/cm) | 18: Bio-Chemical Oxygen Demand (mg/L) | 22: Nitrate (mg/L) | 26: Fecal Coliform (MPN/100mL) | 30: Total Coliform (MPN/100mL) | 34: Fecal Streptococci (MPN/100mL)
+nwmp_major_2022.xlsx,Table 41,8,"1: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986 | 7: > 5.0 mg/ L | 11: 6.5 - 8.5 | 18: < 3.0 mg/ L | 26: < 2500 MPN
+/ 100 mL | 34: < 500 MPN
+/ 100 mL"
+nwmp_major_2024.xlsx,Table 1,2,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 1,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 2,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 2,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 3,2,"1: Statio n code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 3,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 4,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 4,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 4,10,"1: 2725 | 2: RIVER GANGA AFTER CONFLUENCE OF SONG NEAR
+SATYANARAYAN TEMPLE D/S RAIWALA, DEHRADUN | 3: UTTARAKHAN
+D | 4: 12 | 5: 23 | 6: 7.9 | 7: 9.4 | 8: 7.7 | 9: 8.3 | 10: 113 | 11: 259 | 12: 1.0 | 13: 1.8 | 14: 0.32 | 15: 0.39 | 16: 43 | 17: 94 | 18: 63 | 19: 130 | 20: 2 | 21: 8"
+nwmp_major_2024.xlsx,Table 5,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 5,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 6,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 6,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 7,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 7,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 8,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 8,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 9,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 9,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 10,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 10,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 11,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 11,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 12,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 12,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 13,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 13,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 14,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 14,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 14,13,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 14,15,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 15,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 15,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 15,9,"1: 1482 | 2: RIVER SABARMATI AT MAHUDI JAIN TEMPLE, 150 KM. FORM ORIGIN, | 3: GUJARAT | 4: 27 | 5: 28 | 6: 5.8 | 7: 8.0 | 8: 7.3 | 9: 8.5 | 10: 426 | 11: 497 | 12: 1.0 | 13: 1.0 | 14: 0.41 | 15: 0.88 | 16: 2 | 17: 2 | 18: 11 | 19: 21 | 20: - | 21: -"
+nwmp_major_2024.xlsx,Table 15,11,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 15,13,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 16,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 16,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 17,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 17,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 17,15,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 17,17,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 18,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 18,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 18,16,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 18,18,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 19,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 19,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 19,20,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 20,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 20,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 21,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 21,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 22,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 22,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 23,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 23,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 23,18,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 23,20,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 24,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 24,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 25,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 25,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 26,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 26,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 26,6,"1: 2177 | 2: RIVER GODAVARI  NEAR SOMESHWAR TEMPLE,
+VILLAGE- SOMESHWAR, TALUKA- NASHIK, DISTRICT-NASHIK. | 3: MAHARASHTR A | 4: 19 | 5: 25 | 6: 4.8 | 7: 6.1 | 8: 7.3 | 9: 8.9 | 10: 209 | 11: 841 | 12: 2.8 | 13: 20.0 | 14: 0.3 | 15: 4.7 | 16: 4 | 17: 20 | 18: 33 | 19: 150 | 20: 2 | 21: 2"
+nwmp_major_2024.xlsx,Table 27,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 27,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 27,20,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 29,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 29,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 30,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 30,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 31,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 31,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 31,5,"1: 1906 | 2: RIVER KRISHNA AT WALWA, D/S OF ISLAMPUR NEAR VITHAL TEMPLE, VILLAGE- WALWA, TALUKA-
+WALWA, DISTRICT- SANGLI. | 3: MAHARASHTR A | 4: 22 | 5: 31 | 6: 4.8 | 7: 7.6 | 8: 7.6 | 9: 8.7 | 10: 93 | 11: 877 | 12: 2.8 | 13: 3.2 | 14: 0.4 | 15: 3.31 | 16: 6 | 17: 9 | 18: 20 | 19: 39 | 20: 2 | 21: 2"
+nwmp_major_2024.xlsx,Table 31,20,"1: 4225 | 2: RIVER KRISHNA AT JOGULAMBA TEMPLE,
+ALAMPUR(V&M), JOGULAMBA GADWAL(D) | 3: TELANGANA | 4: 24 | 5: 28 | 6: 5.2 | 7: 6.4 | 8: 7.2 | 9: 8.4 | 10: 179 | 11: 2160 | 12: 1.0 | 13: 4.8 | 14: 0.7 | 15: 4.98 | 16: 2 | 17: 23 | 18: 21 | 19: 350 | 20: 2 | 21: 2"
+nwmp_major_2024.xlsx,Table 32,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 32,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 33,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 33,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 34,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 34,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 34,11,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 34,13,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 35,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 35,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 35,15,"1: 4103 | 2: RIVER CAUVERY D/S AT KANIVE RAMALINGESWARA TEMPLE BRIDGE, KUSHALANAGAR | 3: KARNATAKA | 4: 17 | 5: 30 | 6: 6.5 | 7: 7.8 | 8: 6.9 | 9: 8.4 | 10: 77 | 11: 173 | 12: 1.0 | 13: 3.0 | 14: 0.44 | 15: 1.32 | 16: 2 | 17: 68 | 18: 220 | 19: 700 | 20: - | 21: -"
+nwmp_major_2024.xlsx,Table 36,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 36,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 37,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 37,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 38,2,"1: Statio n Code | 2: Name of the monitoring Location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN(mg/L
+) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 38,4,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_major_2024.xlsx,Table 39,1,"1: Statio n Code | 2: Name of the monitoring location | 3: State | 4: Temperatur e (°C) | 6: Dissolved Oxygen (mg/L) | 8: pH | 10: Conductivity (µmho/cm) | 12: BOD
+(mg/L) | 14: Nitrate (mg/L) | 16: Fecal Coliform (MPN/100ml) | 18: Total Coliform (MPN/100ml) | 20: Fecal Streptococci (MPN/100ml
+)"
+nwmp_major_2024.xlsx,Table 39,3,"6: > 5.0 mg/ L | 8: 6.5 - 8.5 | 12: < 3.0 mg/ L | 16: < 2500 MPN/ 100
+Ml | 20: < 500 MPN/
+100 Ml"
+nwmp_medium_2019.xlsx,Table 1,2,"1: Station code | 2: Station Name | 3: State Name | 4: Temperature (°C) | 6: DissolvedO2
+(mg/l) | 8: pH | 10: Conductivity
+(µmhos/cm) | 12: BOD (mg/l) | 14: Nitrate N +
+Nitrite N (mg/l) | 16: Fecal Coliform
+(MPN/100ML) | 18: Total Coliform
+(MPN/100ML)"
+nwmp_medium_2019.xlsx,Table 1,8,"1: 4348 | 2: RIVER VAMSADHARA, IMMEDIATE BORDER BETWEEN ANDHRA PRADESH & ORISSA STATES, NEAR LALITHAMBA
+TEMPLE, BATTILI (V) BHAMINI (M) | 3: ANDHRA PRADESH | 4: 20.0 | 5: 34.0 | 6: 6.5 | 7: 8.1 | 8: 6.7 | 9: 8.3 | 10: 254 | 11: 384 | 12: 1.4 | 13: 2.6 | 14: 0.16 | 15: 2.29 | 16: 7 | 17: 21 | 18: 93 | 19: 460"
+nwmp_medium_2022.xlsx,Table 1,3,"1: STN
+Code | 2: Monitoring Location | 3: State | 4: Temperature (°C) | 6: Dissolved O2
+(mg/L) | 8: pH | 10: Conductivity (μmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN
+(mg/L) | 16: Fecal Coliform (MPN/100ML) | 18: Total Coliform (MPN/100ML) | 20: Fecal Streptococci
+(MPN/100ML)"
+nwmp_medium_2022.xlsx,Table 1,10,"1: 4348 | 2: RIVER VAMSADHARA, IMMEDIATE BORDER BETWEEN ANDHRA PRADESH & ORISSA STATES, NEAR LALITHAMBA TEMPLE, BATTILI (V) BHAMINI
+(M) | 3: ANDHRA PRADESH | 4: 23.0 | 5: 29.0 | 6: 5.7 | 7: 8.5 | 8: 7.4 | 9: 8.4 | 10: 164 | 11: 1435 | 12: 1.1 | 13: 2.8 | 14: 0.32 | 15: 2.53 | 16: 3 | 17: 23 | 18: 28 | 19: 240 | 20: 2 | 21: 2"
+nwmp_medium_2022.xlsx,Table 2,1,"1: STN
+Code | 2: Monitoring Location | 3: State | 4: Temperature (°C) | 6: Dissolved O2
+(mg/L) | 8: pH | 10: Conductivity (μmho/cm) | 12: BOD
+(mg/L) | 14: NitrateN + NitriteN
+(mg/L) | 16: Fecal Coliform (MPN/100ML) | 18: Total Coliform (MPN/100ML) | 20: Fecal Streptococci
+(MPN/100ML)"
+nwmp_medium_2022.xlsx,Table 2,4,"1: 2463 | 2: RIVER DAMANGANGA AT LAVACHA TEMPLE, SILVASSA | 3: DAMAN AND DIU, DADRA AND NAGAR
+HAVELI | 4: 26.8 | 5: 32.7 | 6: 6.1 | 7: 6.6 | 8: 7.2 | 9: 7.5 | 10: 183 | 11: 245 | 12: 1.0 | 13: 1.0 | 14: 0.3 | 15: 0.3 | 16: 36 | 17: 58 | 18: 84 | 19: 98 | 20: 12 | 21: 28"
+nwmp_medium_2024.xlsx,Table 1,3,1: STN Code | 2: Monitoring Location | 3: River | 4: State Name | 5: Temperature (°C) | 7: Dissolved O2 (mg/L) | 9: pH | 11: Conductivity (µmho/cm) | 13: BOD (mg/L) | 15: NitrateN + NitriteN(mg/L) | 17: Fecal Coliform (MPN/100ml) | 19: Total Coliform (MPN/100ml) | 21: Fecal Streptococci (MPN/100ml)
+nwmp_medium_2024.xlsx,Table 1,16,"1: 2463 | 2: RIVER DAMANGANGA AT LAVACHA TEMPLE, SILVASSA | 3: DAMANGANGA | 4: DAMAN AND DIU, DADRA A | 5: 26 | 6: 31 | 7: 5.8 | 8: 7.5 | 9: 7.81 | 10: 8.67 | 11: 236 | 12: 3223 | 13: 1 | 14: 4 | 15: 0.32 | 16: 1.45 | 17: 6 | 18: 280 | 19: 84 | 20: 540 | 21: 2 | 22: 26"
+nwmp_medium_2024.xlsx,Table 2,1,1: STN Code | 2: Monitoring Location | 3: River | 4: State Name | 5: Temperature (°C) | 7: Dissolved O2 (mg/L) | 9: pH | 11: Conductivity (µmho/cm) | 13: BOD (mg/L) | 15: NitrateN + NitriteN(mg/L) | 17: Fecal Coliform (MPN/100ml) | 19: Total Coliform (MPN/100ml) | 21: Fecal Streptococci (MPN/100ml)
+nwmp_medium_2024.xlsx,Table 2,8,1: 3191 | 2: RIVER SINQUERIM NEAR NERUL TEMPLE | 3: SINQUERIM | 4: GOA | 5: 28 | 6: 32 | 7: 4 | 8: 6.8 | 9: 7.26 | 10: 8.23 | 11: 15770 | 12: 74550 | 13: 1 | 14: 1.8 | 15: 0.32 | 16: 0.83 | 17: 450 | 18: 3300 | 19: 940 | 20: 4900 | 21: 110 | 22: 490

@@ -1,0 +1,22 @@
+DATA QUALITY CORRECTION REPORT
+==================================================
+
+Original records: 5407
+Output records: 5407
+Non-numeric values converted to missing: 9090
+Potential range violations: 19
+Rows participating in duplicate groups: 220
+
+DUPLICATE CLASSIFICATION
+--------------------------------------------------
+duplicate_type
+Major-Medium overlap           214
+Multiple source sheets           4
+Same-sheet repeated station      2
+
+IMPORTANT NOTES
+--------------------------------------------------
+Non-numeric entries were converted to missing values in the output dataset. Original source files remain unchanged.
+Potential outliers were identified but NOT deleted.
+Station-year duplicates were classified but NOT deleted.
+Measurement units and source-to-output accuracy still require verification.

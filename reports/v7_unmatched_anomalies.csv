@@ -1,0 +1,105 @@
+anomaly_number,station_code,year,parameter,original_value,result
+1,5534,2024,conductivity_min,"2191
+0",MATCHED
+2,5535,2024,conductivity_min,"2020
+0",MATCHED
+3,5536,2024,conductivity_min,"1076
+0",MATCHED
+4,1782,2024,conductivity_min,"1480
+0",MATCHED
+5,4379,2024,conductivity_min,"3562
+0",MATCHED
+6,1326,2024,conductivity_min,"1401
+0",MATCHED
+7,1327,2024,conductivity_min,"1156
+0",MATCHED
+8,1125,2022,conductivity_max,"76-
+00",MATCHED
+9,1126,2022,conductivity_max,"1-
+586",MATCHED
+10,1498,2022,conductivity_max,"1-
+670",MATCHED
+11,5533,2024,conductivity_max,"11578
+0",MATCHED
+12,30001,2024,bod_max,"150.
+0",MATCHED
+13,2194,2024,bod_max,"102.
+5",MATCHED
+14,3022,2024,bod_max,"120.
+0",MATCHED
+15,3023,2024,bod_max,"160.
+0",MATCHED
+16,10101,2024,nitrate_max,"208.0
+0",MATCHED
+17,2114,2024,nitrate_max,"275.2
+5",MATCHED
+18,12,2024,nitrate_max,"426.6
+2",MATCHED
+19,1480,2024,fecal_coliform_min,"170000
+0",MATCHED
+20,10028,2022,fecal_coliform_max,"13000
+00",MATCHED
+21,1020,2022,fecal_coliform_max,"23000
+00",MATCHED
+22,10025,2022,fecal_coliform_max,"23000
+0",MATCHED
+23,10026,2022,fecal_coliform_max,"21000
+0",MATCHED
+24,1021,2022,fecal_coliform_max,"49000
+0",MATCHED
+25,1381,2022,fecal_coliform_max,"49000
+0",MATCHED
+26,10115,2024,fecal_coliform_max,"24000000
+0",MATCHED
+27,1020,2022,total_coliform_min,"17000
+0",MATCHED
+28,10025,2022,total_coliform_min,"11000
+0",MATCHED
+29,1410,2024,total_coliform_min,"110000
+0",MATCHED
+30,1480,2024,total_coliform_min,"310000
+0",MATCHED
+31,30053,2024,total_coliform_min,"160000
+0",MATCHED
+32,30009,2022,total_coliform_max,"16000
+0",MATCHED
+33,10028,2022,total_coliform_max,"21000
+00",MATCHED
+34,1020,2022,total_coliform_max,"58000
+00",MATCHED
+35,10025,2022,total_coliform_max,"49000
+0",MATCHED
+36,10026,2022,total_coliform_max,"63000
+0",MATCHED
+37,1021,2022,total_coliform_max,"11000
+00",MATCHED
+38,1381,2022,total_coliform_max,"11000
+00",MATCHED
+39,10115,2024,total_coliform_max,"35000000
+0",MATCHED
+40,1478,2019,fecal_streptococci_min,"210000
+0",MATCHED
+41,2483,2024,fecal_streptococci_max,"1200
+0",MATCHED
+42,2525,2024,fecal_streptococci_max,"1600
+0",MATCHED
+43,3891,2024,fecal_streptococci_max,*,MATCHED
+44,10042,2024,do_max,26.0,PARAMETER COLUMN NOT FOUND
+45,30018,2019,bod_min,206.0,NOT MATCHED
+46,10026,2019,bod_max,120.0,NOT MATCHED
+47,1020,2019,bod_max,105.0,NOT MATCHED
+48,1483,2019,bod_max,126.0,NOT MATCHED
+49,2,2019,bod_max,203.0,NOT MATCHED
+50,3023,2019,bod_max,230.0,NOT MATCHED
+51,1020,2022,bod_max,140.0,NOT MATCHED
+52,4488,2022,bod_max,160.0,NOT MATCHED
+53,30004,2022,bod_max,116.0,NOT MATCHED
+54,30037,2022,bod_max,102.0,NOT MATCHED
+55,30018,2019,bod_max,206.0,NOT MATCHED
+56,1436,2019,bod_max,258.6,MATCHED
+57,4162,2019,bod_max,210.0,NOT MATCHED
+58,4162,2024,bod_max,142.0,NOT MATCHED
+59,30015,2024,fecal_coliform_max,110000000.0,NOT MATCHED
+60,30016,2024,fecal_coliform_max,1600000000.0,NOT MATCHED
+61,30015,2024,total_coliform_max,350000000.0,NOT MATCHED
+62,30016,2024,total_coliform_max,1600000000.0,NOT MATCHED

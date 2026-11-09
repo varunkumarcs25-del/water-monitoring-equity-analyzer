@@ -1,0 +1,8 @@
+row,column,original,reason
+1402,conductivity_max,"76-
+00",Ambiguous line-break value
+1403,conductivity_max,"1-
+586",Ambiguous line-break value
+1404,conductivity_max,"1-
+670",Ambiguous line-break value
+3804,fecal_streptococci_max,*,Unrecognized measurement value

@@ -1,0 +1,26 @@
+dataframe_row,column,original_value,reason,action,value
+1402,conductivity_max,"76-
+00",Line-break value remains non-numeric,Requires original-source verification,
+1403,conductivity_max,"1-
+586",Line-break value remains non-numeric,Requires original-source verification,
+1404,conductivity_max,"1-
+670",Line-break value remains non-numeric,Requires original-source verification,
+3804,fecal_streptococci_max,*,Unrecognized non-numeric value,Preserved in raw column; manual review required,
+4336,bod_min,,,RETAINED_FOR_SCIENTIFIC_REVIEW,206.0
+67,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,120.0
+75,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,105.0
+329,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,126.0
+628,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,203.0
+1059,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,230.0
+1163,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,140.0
+1267,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,160.0
+1468,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,116.0
+1488,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,102.0
+3110,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,150.0
+4090,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,102.5
+4218,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,120.0
+4219,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,160.0
+4336,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,206.0
+4379,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,258.6
+4630,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,210.0
+5354,bod_max,,,RETAINED_FOR_SCIENTIFIC_REVIEW,142.0

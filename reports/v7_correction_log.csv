@@ -1,0 +1,79 @@
+dataframe_row,column,original_value,corrected_value,correction,status
+3832,conductivity_min,"2191
+0",21910,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3833,conductivity_min,"2020
+0",20200,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3834,conductivity_min,"1076
+0",10760,Removed embedded line break,AUTOMATICALLY_CORRECTED
+4028,conductivity_min,"1480
+0",14800,Removed embedded line break,AUTOMATICALLY_CORRECTED
+4137,conductivity_min,"3562
+0",35620,Removed embedded line break,AUTOMATICALLY_CORRECTED
+4187,conductivity_min,"1401
+0",14010,Removed embedded line break,AUTOMATICALLY_CORRECTED
+4188,conductivity_min,"1156
+0",11560,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3831,conductivity_max,"11578
+0",115780,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3110,bod_max,"150.
+0",150.0,Removed embedded line break,AUTOMATICALLY_CORRECTED
+4090,bod_max,"102.
+5",102.5,Removed embedded line break,AUTOMATICALLY_CORRECTED
+4218,bod_max,"120.
+0",120.0,Removed embedded line break,AUTOMATICALLY_CORRECTED
+4219,bod_max,"160.
+0",160.0,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3032,nitrate_max,"208.0
+0",208.00,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3700,nitrate_max,"275.2
+5",275.25,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3910,nitrate_max,"426.6
+2",426.62,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3119,fecal_coliform_min,"170000
+0",1700000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1157,fecal_coliform_max,"13000
+00",1300000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1163,fecal_coliform_max,"23000
+00",2300000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1165,fecal_coliform_max,"23000
+0",230000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1166,fecal_coliform_max,"21000
+0",210000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1167,fecal_coliform_max,"49000
+0",490000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1168,fecal_coliform_max,"49000
+0",490000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+2920,fecal_coliform_max,"24000000
+0",240000000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1163,total_coliform_min,"17000
+0",170000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1165,total_coliform_min,"11000
+0",110000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+2791,total_coliform_min,"110000
+0",1100000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3119,total_coliform_min,"310000
+0",3100000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+4238,total_coliform_min,"160000
+0",1600000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1141,total_coliform_max,"16000
+0",160000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1157,total_coliform_max,"21000
+00",2100000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1163,total_coliform_max,"58000
+00",5800000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1165,total_coliform_max,"49000
+0",490000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1166,total_coliform_max,"63000
+0",630000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1167,total_coliform_max,"11000
+00",1100000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+1168,total_coliform_max,"11000
+00",1100000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+2920,total_coliform_max,"35000000
+0",350000000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+389,fecal_streptococci_min,"210000
+0",2100000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3122,fecal_streptococci_max,"1200
+0",12000,Removed embedded line break,AUTOMATICALLY_CORRECTED
+3295,fecal_streptococci_max,"1600
+0",16000,Removed embedded line break,AUTOMATICALLY_CORRECTED

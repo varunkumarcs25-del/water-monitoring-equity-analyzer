@@ -1,0 +1,35 @@
+NWMP DATA CLEANING REPORT
+=========================
+
+Original records: 5410
+Exact repeated rows removed: 3
+Candidate records: 5407
+Remaining duplicate station-year rows: 220
+
+DUPLICATE CLASSIFICATION
+------------------------
+         duplicate_group_type  rows  unique_station_years
+         major_medium_overlap   214                   214
+same_category_multiple_sheets     4                     4
+            same_sheet_repeat     8                     8
+
+MISSING MEASUREMENTS
+--------------------
+temperature_min           298
+temperature_max           303
+dissolved_oxygen_min      305
+dissolved_oxygen_max      305
+ph_min                    297
+ph_max                    214
+conductivity_min          230
+conductivity_max          310
+bod_min                   275
+bod_max                   299
+nitrate_min               401
+nitrate_max               401
+fecal_coliform_min        326
+fecal_coliform_max        330
+total_coliform_min        329
+total_coliform_max        328
+fecal_streptococci_min    918
+fecal_streptococci_max    915

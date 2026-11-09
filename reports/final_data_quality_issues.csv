@@ -1,0 +1,26 @@
+category,description,count
+Missing values,river,5043
+Missing values,temperature_min,298
+Missing values,temperature_max,303
+Missing values,dissolved_oxygen_min,305
+Missing values,dissolved_oxygen_max,305
+Missing values,ph_min,297
+Missing values,ph_max,214
+Missing values,conductivity_min,230
+Missing values,conductivity_max,310
+Missing values,bod_min,275
+Missing values,bod_max,299
+Missing values,nitrate_min,401
+Missing values,nitrate_max,401
+Missing values,fecal_coliform_min,326
+Missing values,fecal_coliform_max,330
+Missing values,total_coliform_min,329
+Missing values,total_coliform_max,328
+Missing values,fecal_streptococci_min,918
+Missing values,fecal_streptococci_max,915
+Duplicate records,Repeated year and station_code combinations,220
+Measurement range,dissolved_oxygen_max,1
+Measurement range,bod_min,1
+Measurement range,bod_max,13
+Measurement range,fecal_coliform_max,2
+Measurement range,total_coliform_max,2

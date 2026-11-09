@@ -1,0 +1,9 @@
+ANOMALY HEADER INSPECTION REPORT
+==================================================
+
+Total anomalies: 62
+
+inspection_status
+HEADER AND ROW EXTRACTED    62
+
+Original Excel files were only inspected. No data was modified.

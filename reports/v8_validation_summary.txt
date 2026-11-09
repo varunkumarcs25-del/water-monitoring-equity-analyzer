@@ -1,0 +1,11 @@
+V8 DATASET VALIDATION
+=============================================
+Records: 5407
+Expected measurement columns: 18
+Available measurement columns: 18
+Automatic corrections: 39
+Manual review entries: 4
+Potential outliers retained: 808
+Original v5 dataset preserved.
+BDL values are not converted to zero.
+Missing values are not zero-filled.

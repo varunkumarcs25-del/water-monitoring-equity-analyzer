@@ -1,0 +1,71 @@
+FINAL DATA QUALITY AUDIT REPORT
+============================================================
+
+Total records: 5407
+Total columns: 27
+Unique states/UT labels: 38
+
+VALIDATION RESULTS
+------------------------------------------------------------
+
+[PASS] Required columns
+    All required columns are present.
+
+[WARNING] Missing value analysis
+    11827 missing cells found. Missingness is documented.
+
+[PASS] Exact duplicate records
+    0 exact duplicates found.
+
+[WARNING] Station-year duplicates
+    220 rows belong to repeated station-year groups. These require classification, not automatic deletion.
+
+[WARNING] Measurement data types
+    Non-numeric measurement values: [('temperature_min', 86), ('temperature_max', 86), ('dissolved_oxygen_min', 61), ('dissolved_oxygen_max', 27), ('ph_min', 1), ('ph_max', 1), ('conductivity_min', 167), ('conductivity_max', 162), ('bod_min', 227), ('bod_max', 180), ('nitrate_min', 768), ('nitrate_max', 467), ('fecal_coliform_min', 483), ('fecal_coliform_max', 484), ('total_coliform_min', 429), ('total_coliform_max', 431), ('fecal_streptococci_min', 2515), ('fecal_streptococci_max', 2515)]
+
+[WARNING] Preliminary measurement ranges
+    Potential range violations: [('dissolved_oxygen_max', 1), ('bod_min', 1), ('bod_max', 13), ('fecal_coliform_max', 2), ('total_coliform_max', 2)]. These are plausibility checks, not scientific unit validation.
+
+[PASS] State information
+    Missing states: 0; unique state labels: 38. Labels still require geographic name harmonisation.
+
+[PASS] Year-wise distribution
+    Records distributed across 3 years.
+
+[PASS] Source traceability
+    Records without complete source references: 0
+
+[PASS] Raw source availability
+    Unmatched source files: []
+
+[PASS] District boundary availability
+    GADM boundary file loaded. Polygon records: 676
+
+[PASS] District boundary attributes
+    District attribute found: NAME_2
+
+[NOT VERIFIED] Station coordinate validation
+    NWMP station coordinates have not yet been geocoded and validated.
+
+[NOT VERIFIED] Measurement unit verification
+    Original measurement units must be checked against the source workbook headers and documentation.
+
+[NOT VERIFIED] Source-to-output value verification
+    A row-level comparison against original Excel values is still required.
+
+[NOT VERIFIED] WQI methodology
+    WQI standards, ideal values and parameter weights have not yet been finalized.
+
+YEAR-WISE DISTRIBUTION
+------------------------------------------------------------
+ year category  records
+ 2019    major     1086
+ 2019   medium      386
+ 2022    major     1588
+ 2022   medium      369
+ 2024    major     1614
+ 2024   medium      364
+
+OVERALL STATUS
+------------------------------------------------------------
+PARTIALLY VERIFIED: Some important checks remain pending.

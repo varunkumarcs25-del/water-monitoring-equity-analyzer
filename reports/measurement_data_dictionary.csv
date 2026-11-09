@@ -1,0 +1,11 @@
+parameter_code,unit,parameter_name,source_scope,source_files_found
+temperature,°C,Temperature,All datasets,nwmp_major_2019.xlsx; nwmp_major_2022.xlsx; nwmp_medium_2019.xlsx; nwmp_medium_2022.xlsx; nwmp_medium_2024.xlsx
+dissolved_oxygen,mg/L,Dissolved Oxygen,All datasets,nwmp_major_2019.xlsx; nwmp_major_2022.xlsx; nwmp_major_2024.xlsx; nwmp_medium_2019.xlsx; nwmp_medium_2022.xlsx; nwmp_medium_2024.xlsx
+ph,Unitless,pH,All datasets,nwmp_major_2019.xlsx; nwmp_major_2022.xlsx; nwmp_major_2024.xlsx; nwmp_medium_2019.xlsx; nwmp_medium_2022.xlsx; nwmp_medium_2024.xlsx
+conductivity,µS/cm,Electrical Conductivity,All datasets,
+bod,mg/L,Biochemical Oxygen Demand,All datasets,
+nitrate,mg/L,Nitrate,Major 2019 and 2022; Major 2024,nwmp_major_2019.xlsx; nwmp_major_2022.xlsx; nwmp_major_2024.xlsx; nwmp_medium_2019.xlsx; nwmp_medium_2022.xlsx; nwmp_medium_2024.xlsx
+nitrate_n_nitrite_n,mg/L,Nitrate-N + Nitrite-N,"Medium 2019, 2022 and 2024",
+fecal_coliform,MPN/100 mL,Fecal Coliform,All datasets,nwmp_major_2022.xlsx; nwmp_major_2024.xlsx; nwmp_medium_2019.xlsx; nwmp_medium_2022.xlsx; nwmp_medium_2024.xlsx
+total_coliform,MPN/100 mL,Total Coliform,All datasets,nwmp_major_2019.xlsx; nwmp_major_2022.xlsx; nwmp_major_2024.xlsx; nwmp_medium_2019.xlsx; nwmp_medium_2022.xlsx; nwmp_medium_2024.xlsx
+fecal_streptococci,MPN/100 mL,Fecal Streptococci,Where reported,nwmp_major_2022.xlsx; nwmp_major_2024.xlsx; nwmp_medium_2019.xlsx; nwmp_medium_2022.xlsx; nwmp_medium_2024.xlsx

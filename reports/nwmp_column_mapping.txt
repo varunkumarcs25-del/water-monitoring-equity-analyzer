@@ -1,0 +1,5895 @@
+
+====================================================================================================
+FILE: nwmp_major_2019.xlsx
+====================================================================================================
+
+SHEET: Table 1
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 2
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature
+  Column 5: Dissolved
+Oxygen
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (Mg/L)
+  Column 13: Nitrate
+  Column 15: Faecal Coliform
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci (MPN/ 100 mL)
+
+ROW 2:
+  Column 3: (0 C)
+  Column 5: (mg/ L)
+  Column 13: (mg/ L)
+  Column 15: (MPN/ 100 mL)
+
+ROW 3:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+
+SHEET: Table 3
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal - Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 4
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 5
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 6
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 7
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 8
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 9
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 10
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci (MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 11
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 12
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 13
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal - Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 14
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 15
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 16
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 17
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 18
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 19
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen
+(mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 20
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 3: STATE
+  Column 6: Temperature (0 C)
+  Column 10: Dissolved Oxygen
+(mg/ L)
+  Column 13: pH
+  Column 16: Conductivity (µmho/ Cm)
+  Column 20: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 23: Nitrate (mg/ L)
+  Column 26: Faecal Coliform (MPN/ 100 mL)
+  Column 29: Total Coliform (MPN/ 100 mL)
+  Column 32: Faecal Streptococci
+(MPN/ 100 mL)
+
+ROW 1:
+  Column 10: > 5.0 mg/L
+  Column 13: 6.5 - 8.5
+  Column 20: < 3.0 mg/L
+  Column 26: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 6: Min
+  Column 8: Max
+  Column 10: Min
+  Column 11: Max
+  Column 13: Min
+  Column 15: Max
+  Column 16: Min
+  Column 18: Max
+  Column 20: Min
+  Column 22: Max
+  Column 23: Min
+  Column 25: Max
+  Column 26: Min
+  Column 27: Max
+  Column 29: Min
+  Column 30: Max
+  Column 32: Min
+  Column 34: Max
+
+
+SHEET: Table 21
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 8: pH
+  Column 11: Conductivity (µmho/ Cm)
+  Column 14: Bio-Chemical Oxygen Demand (mg/L)
+  Column 17: Nitrate (mg/ L)
+  Column 20: Faecal Coliform (MPN/ 100 mL)
+  Column 23: Total Coliform (MPN/ 100 mL)
+  Column 26: Faecal Streptococci (MPN/ 100
+mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 8: 6.5 - 8.5
+  Column 14: < 3.0 mg/L
+  Column 20: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 6: Min
+  Column 7: Max
+  Column 9: Min
+  Column 10: Max
+  Column 12: Min
+  Column 13: Max
+  Column 15: Min
+  Column 16: Max
+  Column 18: Min
+  Column 19: Max
+  Column 21: Min
+  Column 22: Max
+  Column 23: Min
+  Column 24: Max
+  Column 25: Min
+  Column 27: Max
+
+
+SHEET: Table 22
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 23
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+  Column 19: Faecal Streptococci (MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 24
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(Mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 25
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 26
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 27
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 28
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 29
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 30
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 31
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 32
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 33
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 34
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 1:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+SHEET: Table 35
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: LOCATION
+  Column 2: STATE
+  Column 3: Temperature (0 C)
+  Column 5: Dissolved Oxygen (mg/ L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/ Cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/ L)
+  Column 15: Faecal Coliform (MPN/ 100 mL)
+  Column 17: Total Coliform (MPN/ 100 mL)
+
+ROW 2:
+  Column 5: > 5.0 mg/L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/L
+  Column 15: < 2500 MPN/ 100 mL
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+
+====================================================================================================
+FILE: nwmp_major_2022.xlsx
+====================================================================================================
+
+SHEET: Table 2
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 3
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 4
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 5
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 6
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 7
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 8
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 9
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary   Water   Quality   Criteria   (PWQC)   notified   by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 10
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 11
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 12
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 13
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 14
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 15
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 16
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality  Criteria  (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 17
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 18
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary     Water     Quality     Criteria     (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 19
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 20
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 21
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 3: State Name
+  Column 5: Temperature (oC)
+  Column 9: Dissolved Oxygen (mg/L)
+  Column 13: pH
+  Column 17: Conductivity (µmhos/cm)
+  Column 21: Bio-Chemical Oxygen Demand (mg/L)
+  Column 25: Nitrate (mg/L)
+  Column 29: Fecal Coliform (MPN/100mL)
+  Column 33: Total Coliform (MPN/100mL)
+  Column 36: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 9: > 5.0 mg/ L
+  Column 13: 6.5 - 8.5
+  Column 21: < 3.0 mg/ L
+  Column 29: < 2500 MPN
+/ 100 mL
+  Column 36: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 5: MIN
+  Column 7: MAX
+  Column 9: MIN
+  Column 11: MAX
+  Column 13: MIN
+  Column 15: MAX
+  Column 17: MIN
+  Column 19: MAX
+  Column 21: MIN
+  Column 23: MAX
+  Column 25: MIN
+  Column 27: MAX
+  Column 29: MIN
+  Column 31: MAX
+  Column 33: MIN
+  Column 35: MAX
+  Column 36: MIN
+  Column 37: MAX
+
+
+SHEET: Table 22
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary     Water     Quality     Criteria     (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 23
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary     Water     Quality     Criteria     (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 24
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary     Water     Quality     Criteria     (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 25
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 26
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 27
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 28
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 29
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 30
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary    Water    Quality    Criteria    (PWQC) notified  by  MoEF  &  CC  under  E  (P)  Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 31
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary    Water    Quality    Criteria    (PWQC) notified  by  MoEF  &  CC  under  E  (P)  Rules,
+1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 21: MAX
+
+
+SHEET: Table 32
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 4: Temperature (oC)
+  Column 8: Dissolved Oxygen (mg/L)
+  Column 12: pH
+  Column 16: Conductivity (µmhos/cm)
+  Column 20: Bio-Chemical Oxygen Demand (mg/L)
+  Column 24: Nitrate (mg/L)
+  Column 28: Fecal Coliform (MPN/100mL)
+  Column 32: Total Coliform (MPN/100mL)
+  Column 36: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary    Water    Quality    Criteria    (PWQC) notified  by  MoEF  &  CC  under  E  (P)  Rules,
+1986
+  Column 8: > 5.0 mg/ L
+  Column 12: 6.5 - 8.5
+  Column 20: < 3.0 mg/ L
+  Column 28: < 2500 MPN
+/ 100 mL
+  Column 36: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 4: MIN
+  Column 6: MAX
+  Column 8: MIN
+  Column 10: MAX
+  Column 12: MIN
+  Column 14: MAX
+  Column 16: MIN
+  Column 18: MAX
+  Column 20: MIN
+  Column 22: MAX
+  Column 24: MIN
+  Column 26: MAX
+  Column 28: MIN
+  Column 30: MAX
+  Column 32: MIN
+  Column 34: MAX
+  Column 36: MIN
+  Column 38: MAX
+
+
+SHEET: Table 33
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 4: Temperature (oC)
+  Column 8: Dissolved Oxygen (mg/L)
+  Column 12: pH
+  Column 16: Conductivity (µmhos/cm)
+  Column 20: Bio-Chemical Oxygen Demand (mg/L)
+  Column 24: Nitrate (mg/L)
+  Column 28: Fecal Coliform (MPN/100mL)
+  Column 32: Total Coliform (MPN/100mL)
+  Column 36: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 8: > 5.0 mg/ L
+  Column 12: 6.5 - 8.5
+  Column 20: < 3.0 mg/ L
+  Column 28: < 2500 MPN
+/ 100 mL
+  Column 36: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 4: MIN
+  Column 6: MAX
+  Column 8: MIN
+  Column 10: MAX
+  Column 12: MIN
+  Column 14: MAX
+  Column 16: MIN
+  Column 18: MAX
+  Column 20: MIN
+  Column 22: MAX
+  Column 24: MIN
+  Column 26: MAX
+  Column 28: MIN
+  Column 30: MAX
+  Column 32: MIN
+  Column 34: MAX
+  Column 36: MIN
+  Column 37: MAX
+
+
+SHEET: Table 34
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 4: Temperature (oC)
+  Column 8: Dissolved Oxygen (mg/L)
+  Column 12: pH
+  Column 16: Conductivity (µmhos/cm)
+  Column 20: Bio-Chemical Oxygen Demand (mg/L)
+  Column 24: Nitrate (mg/L)
+  Column 28: Fecal Coliform (MPN/100mL)
+  Column 32: Total Coliform (MPN/100mL)
+  Column 36: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary Water Quality Criteria (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 8: > 5.0 mg/ L
+  Column 12: 6.5 - 8.5
+  Column 20: < 3.0 mg/ L
+  Column 28: < 2500 MPN
+/ 100 mL
+  Column 36: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 4: MIN
+  Column 6: MAX
+  Column 8: MIN
+  Column 10: MAX
+  Column 12: MIN
+  Column 14: MAX
+  Column 16: MIN
+  Column 18: MAX
+  Column 20: MIN
+  Column 22: MAX
+  Column 24: MIN
+  Column 26: MAX
+  Column 28: MIN
+  Column 30: MAX
+  Column 32: MIN
+  Column 34: MAX
+  Column 36: MIN
+  Column 38: MAX
+
+
+SHEET: Table 35
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 36
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 37
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 4: Temperature (oC)
+  Column 8: Dissolved Oxygen (mg/L)
+  Column 12: pH
+  Column 15: Conductivity (µmhos/cm)
+  Column 18: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 22: Nitrate (mg/L)
+  Column 26: Fecal Coliform (MPN/100mL)
+  Column 30: Total Coliform (MPN/100mL)
+  Column 34: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified  by MoEF & CC under E (P) Rules, 1986
+  Column 8: > 5.0 mg/ L
+  Column 12: 6.5 - 8.5
+  Column 18: < 3.0 mg/ L
+  Column 26: < 2500 MPN
+/ 100 mL
+  Column 34: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 4: MIN
+  Column 6: MAX
+  Column 8: MIN
+  Column 10: MAX
+  Column 12: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 18: MIN
+  Column 20: MAX
+  Column 22: MIN
+  Column 24: MAX
+  Column 26: MIN
+  Column 28: MAX
+  Column 30: MIN
+  Column 32: MAX
+  Column 34: MIN
+  Column 36: MAX
+
+
+SHEET: Table 38
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary    Water    Quality     Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 39
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmhos/cm)
+  Column 11: Bio-Chemical Oxygen Demand (mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100mL)
+  Column 17: Total Coliform (MPN/100mL)
+  Column 19: Fecal Streptococci (MPN/100mL)
+
+ROW 2:
+  Column 0: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN
+/ 100 mL
+  Column 19: < 500 MPN
+/ 100 mL
+
+ROW 3:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 6: MAX
+  Column 7: MIN
+  Column 8: MAX
+  Column 9: MIN
+  Column 10: MAX
+  Column 11: MIN
+  Column 12: MAX
+  Column 13: MIN
+  Column 14: MAX
+  Column 15: MIN
+  Column 16: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 19: MIN
+  Column 20: MAX
+
+
+SHEET: Table 40
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 4: Temperature (oC)
+  Column 8: Dissolved Oxygen (mg/L)
+  Column 12: pH
+  Column 16: Conductivity (µmhos/cm)
+  Column 20: Bio-Chemical Oxygen Demand (mg/L)
+  Column 24: Nitrate (mg/L)
+  Column 28: Fecal Coliform (MPN/100mL)
+  Column 32: Total Coliform (MPN/100mL)
+  Column 36: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary    Water    Quality    Criteria    (PWQC) notified by MoEF & CC under E (P) Rules, 1986
+  Column 8: > 5.0 mg/ L
+  Column 12: 6.5 - 8.5
+  Column 20: < 3.0 mg/ L
+  Column 28: < 2500 MPN
+/ 100 mL
+  Column 36: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 4: MIN
+  Column 6: MAX
+  Column 8: MIN
+  Column 10: MAX
+  Column 12: MIN
+  Column 14: MAX
+  Column 16: MIN
+  Column 18: MAX
+  Column 20: MIN
+  Column 22: MAX
+  Column 24: MIN
+  Column 26: MAX
+  Column 28: MIN
+  Column 30: MAX
+  Column 32: MIN
+  Column 34: MAX
+  Column 36: MIN
+  Column 37: MAX
+
+
+SHEET: Table 41
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Station Code
+  Column 1: Name Of Monitoring Location
+  Column 2: State Name
+  Column 3: Temperature (oC)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 9: pH
+  Column 13: Conductivity (µmhos/cm)
+  Column 17: Bio-Chemical Oxygen
+Demand (mg/L)
+  Column 20: Nitrate (mg/L)
+  Column 24: Fecal Coliform (MPN/100mL)
+  Column 28: Total Coliform (MPN/100mL)
+  Column 32: Fecal Streptococci (MPN/100mL)
+
+ROW 1:
+  Column 0: Primary  Water  Quality  Criteria  (PWQC)  notified by MoEF & CC under E (P) Rules, 1986
+  Column 5: > 5.0 mg/ L
+  Column 9: 6.5 - 8.5
+  Column 17: < 3.0 mg/ L
+  Column 24: < 2500 MPN
+/ 100 mL
+  Column 32: < 500 MPN
+/ 100 mL
+
+ROW 2:
+  Column 3: MIN
+  Column 4: MAX
+  Column 5: MIN
+  Column 7: MAX
+  Column 9: MIN
+  Column 11: MAX
+  Column 13: MIN
+  Column 15: MAX
+  Column 17: MIN
+  Column 18: MAX
+  Column 20: MIN
+  Column 22: MAX
+  Column 24: MIN
+  Column 26: MAX
+  Column 28: MIN
+  Column 30: MAX
+  Column 32: MIN
+  Column 34: MAX
+
+
+====================================================================================================
+FILE: nwmp_major_2024.xlsx
+====================================================================================================
+
+SHEET: Table 1
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 2
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 3
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 4
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 5
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 6
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 7
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 8
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 9
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 10
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 11
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 12
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 13
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 14
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 15
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 16
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 17
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 18
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 19
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 20
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 21
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 22
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 23
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 24
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 25
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 26
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 27
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 29
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 30
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 31
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 32
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 33
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 34
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 35
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 36
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi n
+  Column 6: Ma x
+  Column 7: Mi n
+  Column 8: Ma x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 37
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 38
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring Location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN(mg/L
+)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 3:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+SHEET: Table 39
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: Statio n Code
+  Column 1: Name of the monitoring location
+  Column 2: State
+  Column 3: Temperatur e (°C)
+  Column 5: Dissolved Oxygen (mg/L)
+  Column 7: pH
+  Column 9: Conductivity (µmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: Nitrate (mg/L)
+  Column 15: Fecal Coliform (MPN/100ml)
+  Column 17: Total Coliform (MPN/100ml)
+  Column 19: Fecal Streptococci (MPN/100ml
+)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Mi
+n
+  Column 6: Ma
+x
+  Column 7: Mi
+n
+  Column 8: Ma
+x
+  Column 9: Min
+  Column 10: Max
+  Column 11: Mi
+n
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 5: > 5.0 mg/ L
+  Column 7: 6.5 - 8.5
+  Column 11: < 3.0 mg/ L
+  Column 15: < 2500 MPN/ 100
+Ml
+  Column 19: < 500 MPN/
+100 Ml
+
+
+====================================================================================================
+FILE: nwmp_medium_2019.xlsx
+====================================================================================================
+
+SHEET: Table 1
+HEADER ROW: 1
+
+ROW 1:
+  Column 0: Station code
+  Column 1: Station Name
+  Column 2: State Name
+  Column 3: Temperature (°C)
+  Column 5: DissolvedO2
+(mg/l)
+  Column 7: pH
+  Column 9: Conductivity
+(µmhos/cm)
+  Column 11: BOD (mg/l)
+  Column 13: Nitrate N +
+Nitrite N (mg/l)
+  Column 15: Fecal Coliform
+(MPN/100ML)
+  Column 17: Total Coliform
+(MPN/100ML)
+
+ROW 2:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+
+ROW 3:
+  Column 0: 4358
+  Column 1: RIVER GOWTHAMI (GODAVARI) GOVALANKA, INJARAM (V), NEAR GMC
+BALAYOGI BRIDGE, TALLAREVU (M)
+  Column 2: ANDHRA PRADESH
+  Column 3: 25
+  Column 4: 31
+  Column 5: 5.8
+  Column 6: 6.8
+  Column 7: 7.1
+  Column 8: 8.4
+  Column 9: 228
+  Column 10: 60900
+  Column 11: 1.3
+  Column 12: 2.4
+  Column 13: 0.7
+  Column 14: 3.09
+  Column 15: 4
+  Column 16: 20
+  Column 17: 93
+  Column 18: 210
+
+
+====================================================================================================
+FILE: nwmp_medium_2022.xlsx
+====================================================================================================
+
+SHEET: Table 1
+HEADER ROW: 2
+
+ROW 2:
+  Column 0: STN
+Code
+  Column 1: Monitoring Location
+  Column 2: State
+  Column 3: Temperature (°C)
+  Column 5: Dissolved O2
+(mg/L)
+  Column 7: pH
+  Column 9: Conductivity (μmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN
+(mg/L)
+  Column 15: Fecal Coliform (MPN/100ML)
+  Column 17: Total Coliform (MPN/100ML)
+  Column 19: Fecal Streptococci
+(MPN/100ML)
+
+ROW 3:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 4:
+  Column 0: 1448
+  Column 1: RIVER NAGAVALI AT THOTAPALLI REGULATOR, THOTAPALLI (V), GARUGUBILLI
+(M)
+  Column 2: ANDHRA PRADESH
+  Column 3: 25
+  Column 4: 28
+  Column 5: 6.2
+  Column 6: 7.7
+  Column 7: 7.1
+  Column 8: 8.7
+  Column 9: 215
+  Column 10: 365
+  Column 11: 1.2
+  Column 12: 2.8
+  Column 13: 0.38
+  Column 14: 2.98
+  Column 15: 4
+  Column 16: 28
+  Column 17: 93
+  Column 18: 240
+  Column 19: 2
+  Column 20: 2
+
+
+SHEET: Table 2
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: STN
+Code
+  Column 1: Monitoring Location
+  Column 2: State
+  Column 3: Temperature (°C)
+  Column 5: Dissolved O2
+(mg/L)
+  Column 7: pH
+  Column 9: Conductivity (μmho/cm)
+  Column 11: BOD
+(mg/L)
+  Column 13: NitrateN + NitriteN
+(mg/L)
+  Column 15: Fecal Coliform (MPN/100ML)
+  Column 17: Total Coliform (MPN/100ML)
+  Column 19: Fecal Streptococci
+(MPN/100ML)
+
+ROW 1:
+  Column 3: Min
+  Column 4: Max
+  Column 5: Min
+  Column 6: Max
+  Column 7: Min
+  Column 8: Max
+  Column 9: Min
+  Column 10: Max
+  Column 11: Min
+  Column 12: Max
+  Column 13: Min
+  Column 14: Max
+  Column 15: Min
+  Column 16: Max
+  Column 17: Min
+  Column 18: Max
+  Column 19: Min
+  Column 20: Max
+
+ROW 2:
+  Column 0: 2460
+  Column 1: RIVER DAMANGANGA AT DISCHARGE POINT OF DISTILLERY, DAMAN
+  Column 2: DAMAN AND DIU, DADRA AND NAGAR
+HAVELI
+  Column 3: 26.8
+  Column 4: 31.4
+  Column 5: 4.2
+  Column 6: 4.6
+  Column 7: 7.5
+  Column 8: 8
+  Column 9: 18374
+  Column 10: 21268
+  Column 11: 16.4
+  Column 12: 28.7
+  Column 13: 0.5
+  Column 14: 0.8
+  Column 15: 70
+  Column 16: 80
+  Column 17: 360
+  Column 18: 398
+  Column 19: 30
+  Column 20: 52
+
+
+====================================================================================================
+FILE: nwmp_medium_2024.xlsx
+====================================================================================================
+
+SHEET: Table 1
+HEADER ROW: 2
+
+ROW 2:
+  Column 0: STN Code
+  Column 1: Monitoring Location
+  Column 2: River
+  Column 3: State Name
+  Column 4: Temperature (°C)
+  Column 6: Dissolved O2 (mg/L)
+  Column 8: pH
+  Column 10: Conductivity (µmho/cm)
+  Column 12: BOD (mg/L)
+  Column 14: NitrateN + NitriteN(mg/L)
+  Column 16: Fecal Coliform (MPN/100ml)
+  Column 18: Total Coliform (MPN/100ml)
+  Column 20: Fecal Streptococci (MPN/100ml)
+
+ROW 3:
+  Column 4: Min
+  Column 5: Max
+  Column 6: Min
+  Column 7: Max
+  Column 8: Min
+  Column 9: Max
+  Column 10: Min
+  Column 11: Max
+  Column 12: Min
+  Column 13: Max
+  Column 14: Min
+  Column 15: Max
+  Column 16: Min
+  Column 17: Max
+  Column 18: Min
+  Column 19: Max
+  Column 20: Min
+  Column 21: Max
+
+ROW 4:
+  Column 0: 1448
+  Column 1: RIVER NAGAVALI AT THOTAPALLI REGULATOR, THOTA
+  Column 2: NAGAVALI
+  Column 3: ANDHRA PRADESH
+  Column 4: 26
+  Column 5: 35
+  Column 6: 5.5
+  Column 7: 8.2
+  Column 8: 6.3
+  Column 9: 8.09
+  Column 10: 157
+  Column 11: 393
+  Column 12: 1.4
+  Column 13: 2.5
+  Column 14: 0.5
+  Column 15: 1.7
+  Column 16: 3
+  Column 17: 7
+  Column 18: 64
+  Column 19: 150
+  Column 20: 1.8
+  Column 21: 3
+
+
+SHEET: Table 2
+HEADER ROW: 0
+
+ROW 0:
+  Column 0: STN Code
+  Column 1: Monitoring Location
+  Column 2: River
+  Column 3: State Name
+  Column 4: Temperature (°C)
+  Column 6: Dissolved O2 (mg/L)
+  Column 8: pH
+  Column 10: Conductivity (µmho/cm)
+  Column 12: BOD (mg/L)
+  Column 14: NitrateN + NitriteN(mg/L)
+  Column 16: Fecal Coliform (MPN/100ml)
+  Column 18: Total Coliform (MPN/100ml)
+  Column 20: Fecal Streptococci (MPN/100ml)
+
+ROW 1:
+  Column 4: Min
+  Column 5: Max
+  Column 6: Min
+  Column 7: Max
+  Column 8: Min
+  Column 9: Max
+  Column 10: Min
+  Column 11: Max
+  Column 12: Min
+  Column 13: Max
+  Column 14: Min
+  Column 15: Max
+  Column 16: Min
+  Column 17: Max
+  Column 18: Min
+  Column 19: Max
+  Column 20: Min
+  Column 21: Max
+
+ROW 2:
+  Column 0: 3186
+  Column 1: RIVER MANDOVI AT IFFI JETTY
+  Column 2: MANDOVI
+  Column 3: GOA
+  Column 4: 28
+  Column 5: 30
+  Column 6: 4.2
+  Column 7: 8.1
+  Column 8: 7.29
+  Column 9: 8.68
+  Column 10: 4892
+  Column 11: 69020
+  Column 12: 1
+  Column 13: 1.5
+  Column 14: 0.32
+  Column 15: 0.52
+  Column 16: 78
+  Column 17: 1400
+  Column 18: 130
+  Column 19: 5400
+  Column 20: 49
+  Column 21: 110
+

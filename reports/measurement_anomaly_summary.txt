@@ -1,0 +1,59 @@
+MEASUREMENT ANOMALY REVIEW
+==================================================
+
+NON-NUMERIC VALUE CLASSIFICATION
+--------------------------------------------------
+classification
+Hyphen missing marker           7446
+Below Detection Limit           1548
+Underscore marker                 44
+Embedded line break               42
+Double hyphen missing marker       9
+Other text or formatting           1
+
+COLUMN-WISE NON-NUMERIC COUNTS
+--------------------------------------------------
+column
+fecal_streptococci_min    2515
+fecal_streptococci_max    2515
+nitrate_min                768
+fecal_coliform_max         484
+fecal_coliform_min         483
+nitrate_max                467
+total_coliform_max         431
+total_coliform_min         429
+bod_min                    227
+bod_max                    180
+conductivity_min           167
+conductivity_max           162
+temperature_min             86
+temperature_max             86
+dissolved_oxygen_min        61
+dissolved_oxygen_max        27
+ph_min                       1
+ph_max                       1
+
+POTENTIAL OUTLIERS
+--------------------------------------------------
+ station_code  year               column original_value
+        10042  2024 dissolved_oxygen_max           26.0
+        30018  2019              bod_min          206.0
+        10026  2019              bod_max          120.0
+         1020  2019              bod_max          105.0
+         1483  2019              bod_max          126.0
+            2  2019              bod_max          203.0
+         3023  2019              bod_max          230.0
+         1020  2022              bod_max          140.0
+         4488  2022              bod_max          160.0
+        30004  2022              bod_max          116.0
+        30037  2022              bod_max          102.0
+        30018  2019              bod_max          206.0
+         1436  2019              bod_max          258.6
+         4162  2019              bod_max          210.0
+         4162  2024              bod_max          142.0
+        30015  2024   fecal_coliform_max    110000000.0
+        30016  2024   fecal_coliform_max   1600000000.0
+        30015  2024   total_coliform_max    350000000.0
+        30016  2024   total_coliform_max   1600000000.0
+
+All observations retain their original source references.
